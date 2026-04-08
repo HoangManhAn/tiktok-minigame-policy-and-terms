@@ -48,7 +48,7 @@ In particular, Users have the right to do the following:
 
 6. Privacy policy
 
-     Your use of the Application is also subject to the terms and conditions of the Mobile Application Privacy Policy: https://hoangmanhan.github.io/tiktok-minigame-policy-and-terms/PrivacyPolicy
+     Your use of the Application is also subject to the terms and conditions of the Mobile Application Privacy Policy: https://hoangmanhan.github.io/tiktok-minigame-policy-and-terms/PrivacyPolicy.txt
 
 7. Community Guidelines and User-Generated Content
 
